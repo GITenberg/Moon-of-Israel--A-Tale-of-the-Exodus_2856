@@ -1,5 +1,8 @@
 _repo: Moon-of-Israel--A-Tale-of-the-Exodus_2856
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -16,6 +19,8 @@ description: "Moon of Israel is a novel by Rider Haggard, first published in 191
   \ told from the perspective of a scribe named Ana.\nHaggard dedicated his novel\
   \ to Sir Gaston Maspero, a distinguished Egyptologist and director of Cairo Museum.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2856#Moon-of-Israel--A-Tale-of-the-Exodus
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2006-04-04'
 gutenberg_type: Text
